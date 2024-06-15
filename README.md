@@ -1,4 +1,8 @@
-## Hi ! I am Manish Prajapati 👋
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello;नमस्ते;Hola;こんにちは&font=Roboto&center=true&width=440&height=45&color=000000&vCenter=true&pause=100&size=22" />
+</p>
+
+## I am Manish Prajapati 👋
 <p style="margin: -20px 0 30px">
   <a href="https://leetcode.com/mkprajapati1614" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="stackoverflow" height="22px" width="22px" />
