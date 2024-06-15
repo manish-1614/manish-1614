@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello;नमस्ते;Hola;こんにちは&font=Roboto&center=true&width=440&height=45&vCenter=true&pause=100&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello;नमस्ते;Hola;こんにちは&font=Roboto&center=true&width=440&height=45&vCenter=true&pause=1000&size=24" />
 </p>
 
 ## I am <a href="https://github.com/manish-1614">Manish Prajapati</a> <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
